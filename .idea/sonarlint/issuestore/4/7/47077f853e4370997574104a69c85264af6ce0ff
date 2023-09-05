@@ -1,0 +1,7 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¸ŸÓÿÿÿÿÿ8Þöû¤¥1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦Õ¯­üÿÿÿÿ
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ8¤‡Š¥¥1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ä¸ŸÓÿÿÿÿÿ8¦‡Š¥¥1

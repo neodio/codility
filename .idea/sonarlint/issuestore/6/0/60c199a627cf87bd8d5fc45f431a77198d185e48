@@ -1,0 +1,7 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ…Ïñøÿÿÿÿ8ˆ¾‚‚¥1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÎØ’ûÿÿÿÿ8õÌ¤¥1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò×¾Õ8õÌ¤¥1
+x
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "max".(‘ãŸ8’õÌ¤¥1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªê¦óúÿÿÿÿ8‰¾‚‚¥1
